@@ -1,9 +1,13 @@
 body {
-    background: #CCCCCC
+    
 }
 
 #CAPA {
     width: 100%;
+}
+
+.pricipal {
+    background: #CCCCCC
 }
 
 h1 {
@@ -28,4 +32,8 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
